@@ -95,7 +95,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=24
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -401,7 +401,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=25
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -418,7 +418,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=26
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -571,7 +571,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=27
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -588,7 +588,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=28
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -605,7 +605,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=29
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -622,7 +622,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=30
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -639,7 +639,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=31
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -741,7 +741,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=32
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -807,7 +807,7 @@ UniqueID=9000A0FD-E0ED-46F7-AF28-34E7102E1D20
 Description=Base Variant
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=20
 Variation1=Designator=J16|UniqueId=\VFBSKKHN\AMZGCNZV\WYSRIGRQ|Kind=1|AlternatePart= 
 Variation2=Designator=J16|UniqueId=\VFBSKKHN\AMZGCNZV\IBKHZSOI|Kind=1|AlternatePart= 
 Variation3=Designator=R89|UniqueId=\VFBSKKHN\XRMAYQVY\YLDOMIKA\AXVTHBTZ|Kind=1|AlternatePart= 
@@ -827,6 +827,7 @@ Variation16=Designator=R115|UniqueId=\VFBSKKHN\XRMAYQVY\YLDOMIKA\OEBHGQQN|Kind=1
 Variation17=Designator=D15|UniqueId=\VFBSKKHN\XRMAYQVY\YLDOMIKA\JKMRPXCS|Kind=1|AlternatePart= 
 Variation18=Designator=D16|UniqueId=\VFBSKKHN\XRMAYQVY\YLDOMIKA\PVQQVKSB|Kind=1|AlternatePart= 
 Variation19=Designator=J16|UniqueId=\VFBSKKHN\AMZGCNZV\KYTQVBXI|Kind=0|AlternatePart= 
+Variation20=Designator=R44|UniqueId=\LAKUJSUO\GJSIHDFZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
